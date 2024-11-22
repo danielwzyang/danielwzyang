@@ -1,1 +1,1 @@
-![minion](https://giphy.com/stickers/minions-love-heart-minion-EIpHa3LdR8Zr9Z11NZ)
+![minion](https://github.com/danielwzyang/danielwzyang/blob/main/minion.gif)
