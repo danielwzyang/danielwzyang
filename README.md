@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="deadbeef.svg" width="330">
+    <img src="deadbeef.svg" width="260">
 </p>
