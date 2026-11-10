@@ -1,16 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180">
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="200">
     <style>
-        text { font: 16px monospace; fill: #24292f; white-space: pre }
-        @media (prefers-color-scheme: dark) { text { fill: #e6edf3 } }
+        text { 
+            font: 18px Menlo, Consolas, monospace;
+            fill: #1f2328;
+            white-space: pre
+        }
+        @media (prefers-color-scheme: dark) {
+            text { 
+                fill: #e6edf3
+            }
+        }
     </style>
-    <g xml:space="preserve">
-        <text x="15" y="24"> ____________</text>
-        <text x="15" y="44">&lt; 0xDEADBEEF &gt;</text>
-        <text x="15" y="64"> ------------</text>
-        <text x="15" y="84">        \   ^__^</text>
-        <text x="15" y="104">         \  (xx)\_______</text>
-        <text x="15" y="124">            (__)\       )\/\</text>
-        <text x="15" y="144">             U  ||----w |</text>
-        <text x="15" y="164">                ||     ||</text>
+        <g xml:space="preserve">
+        <text x="15" y="26"> ____________</text>
+        <text x="15" y="48">&lt; 0xDEADBEEF &gt;</text>
+        <text x="15" y="70"> ------------</text>
+        <text x="15" y="92">        \   ^__^</text>
+        <text x="15" y="114">         \  (xx)\_______</text>
+        <text x="15" y="136">            (__)\       )\/\</text>
+        <text x="15" y="158">             U  ||----w |</text>
+        <text x="15" y="180">                ||     ||</text>
     </g>
 </svg>
