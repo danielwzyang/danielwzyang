@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="330" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="175">
     <style>
         text { 
-            font: 18px Menlo, Consolas, monospace;
+            font: 13.6px Menlo, Consolas, monospace;
             fill: #1f2328;
             white-space: pre
         }
@@ -12,13 +12,13 @@
         }
     </style>
         <g xml:space="preserve">
-        <text x="15" y="26"> ____________</text>
-        <text x="15" y="48">&lt; 0xDEADBEEF &gt;</text>
-        <text x="15" y="70"> ------------</text>
-        <text x="15" y="92">        \   ^__^</text>
-        <text x="15" y="114">         \  (xx)\_______</text>
-        <text x="15" y="136">            (__)\       )\/\</text>
-        <text x="15" y="158">             U  ||----w |</text>
-        <text x="15" y="180">                ||     ||</text>
+        <text x="15" y="20"> ____________</text>
+        <text x="15" y="40">&lt; 0xDEADBEEF &gt;</text>
+        <text x="15" y="60"> ------------</text>
+        <text x="15" y="80">        \   ^__^</text>
+        <text x="15" y="100">         \  (xx)\_______</text>
+        <text x="15" y="120">            (__)\       )\/\</text>
+        <text x="15" y="140">             U  ||----w |</text>
+        <text x="15" y="160">                ||     ||</text>
     </g>
 </svg>
